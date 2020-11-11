@@ -1,10 +1,5 @@
-# node-express-mongodb-folder-structure
-Node + Express + MongoDB (Folder Structure) with JWT Authorization + Custom ACL (Async / Await) ES6 Features.
-
-Note: This is use for Advance level API using new features.
-
-I have created one more folder structure for Basic use, without JWT Auth & Middelware<br>
-Link: https://github.com/rahulshukla-rs/node-express-mongodb-folder-structure
+# react-core-ui-admin-api
+React Core UI Admin API using Node.js / Express.js / Mongodb
 
 <b>Organizing our application:</b>
 
